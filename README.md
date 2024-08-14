@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi There
 
-<!--
-**yourstrangeee/yourstrangeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
 
-Here are some ideas to get you started:
+- **Python**
+- **C**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Learning Focus
+
+I'm currently diving into the following areas:
+- **Artificial Intelligence**
+- **Machine Learning**
+- **Generative AI**
+- **Data Science**
+
+## Philosophy
+
+> "No programming language is trash, but your code is."
