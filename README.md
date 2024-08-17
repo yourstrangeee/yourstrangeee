@@ -1,11 +1,9 @@
-# Hi There
-
-## Skills
+Skills
 
 - **Python**
 - **C**
 
-## Current Learning Focus
+Current Learning Focus
 
 I'm currently diving into the following areas:
 - **Artificial Intelligence**
@@ -13,6 +11,6 @@ I'm currently diving into the following areas:
 - **Generative AI**
 - **Data Science**
 
-## Philosophy
+Philosophy
 
 > "No programming language is trash, but your code is."
