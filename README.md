@@ -10,3 +10,4 @@ I'm currently diving into the following areas:
 - **Machine Learning**
 - **Generative AI**
 - **Data Science**
+- **Docker**
